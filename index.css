@@ -1,0 +1,16 @@
+#contenidor{
+    height: 500px;
+    margin: 100px;
+    text-align: center;
+    border: 2px solid black;
+}
+.nou_acudit{
+    margin-top: 100px;
+}
+
+#boto{
+    width: 150px;
+    height: 40px;
+    margin-top: 150px;
+    border-radius: 15px;
+}
